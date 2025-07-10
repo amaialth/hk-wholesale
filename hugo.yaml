@@ -1,3 +1,35 @@
 baseURL: https://hk-wholesale.com/
 languageCode: en-us
 title: HK Wholesale
+theme: logis
+defaultContentLanguage: "en"
+style: "default"
+
+params:
+  # Address details
+  address:
+    street: "123 Main Street"
+    city: "Anytown"
+    state: "CA"
+    zip: "90210"
+    country: "USA"
+
+  # Contact details
+  contact:
+    phone: "+1 (555) 123-4567"
+    email: "info@example.com"
+  
+  # Hero section statistics
+  hero:
+    title: "Your Trusted Wholesale Partner"
+    subtitle: "Delivering Quality Products Since 2015"
+    description: "We specialize in providing top-notch wholesale products to businesses worldwide. Our commitment to quality and customer satisfaction has made us a leader in the wholesale industry."
+    stats:
+      - value: "100+"
+        label: "Projects Completed"
+      - value: "500"
+        label: "Happy Clients"
+      - value: "10"
+        label: "Years Experience"
+      - value: "99%"
+        label: "Satisfaction Rate"
