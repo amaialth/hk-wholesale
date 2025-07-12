@@ -1,0 +1,20 @@
+categories:
+  - title: "Product Categories"
+    items:
+      - name: "Automotive Essentials"
+        description: "DEF, engine oils, lubricants, and truck maintenance products."
+        image: "img/Automotive_Essentials.png" # Placeholder image path
+      - name: "Convenience Beverages"
+        description: "Bottled water, sports drinks, and other quick-turnover items."
+        image: "/images/products/beverages.png" # Placeholder image path
+      - name: "Seasonal Supplies"
+        description: "Snow melting salt and other demand-driven seasonal products."
+        image: "/images/products/seasonal.png" # Placeholder image path
+  - title: "Logistics & Sustainability Services"
+    items:
+      - name: "Logistics Services"
+        description: "Direct-to-location delivery with optimized routing to ensure timely and cost-effective fulfillment. Our fleet ensures your products arrive when and where you need them."
+        image: "/images/services/logistics.png" # Placeholder image path
+      - name: "Sustainability Initiatives"
+        description: "Planned introduction of used oil collection and recycling, eco-friendly product lines, and greener transportation options. We are committed to responsible business practices."
+        image: "/images/services/sustainability.png" # Placeholder image path

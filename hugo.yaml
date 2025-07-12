@@ -5,6 +5,26 @@ theme: logis
 defaultContentLanguage: "en"
 style: "default"
 
+# Define your menus here
+menus:
+  main:
+    - name: Home
+      pageRef: "/"
+      url: /
+      weight: 10
+    - name: About
+      pageRef: "about"
+      url: /about
+      weight: 20
+    - name: Services
+      pageRef: "services"
+      url: /services
+      weight: 30
+    - name: Contact
+      pageRef: "contact"
+      url: /contact
+      weight: 40
+
 params:
   # Address details
   address:
@@ -21,9 +41,9 @@ params:
   
   # Hero section statistics
   hero:
-    title: "Your Trusted Wholesale Partner"
+    title: "Your Trusted Wholesale Distribution Partner"
     subtitle: "Delivering Quality Products Since 2015"
-    description: "We specialize in providing top-notch wholesale products to businesses worldwide. Our commitment to quality and customer satisfaction has made us a leader in the wholesale industry."
+    description: "A New Jersey-based wholesale distribution company specializing in supplying high-demand automotive products, bottled water, sports drinks, and seasonal items to Gas stations, Truck stops, Repair Shops, and other small businesses across the state."
     stats:
       - value: "100+"
         label: "Projects Completed"

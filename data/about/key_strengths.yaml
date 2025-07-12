@@ -1,0 +1,13 @@
+strengths:
+  - title: "Industry Expertise"
+    description: "Founded and operated by individuals with hands-on experience in trucking and gas station industries, ensuring deep understanding of customer pain points."
+    icon: "bi bi-gear" # Example: Using a cog icon for industry/expertise
+  - title: "Customer Centric"
+    description: "Personalized service, flexible delivery options, and responsiveness to evolving customer needs."
+    icon: "bi bi-person-heart" # Example: Person with heart for customer-centric
+  - title: "Sustainability Focus"
+    description: "Early adoption of environmentally responsible services and products, positioning HK Wholesale as a forward-thinking leader in green distribution."
+    icon: "bi bi-leaf" # Example: Leaf icon for sustainability
+  - title: "Operational Efficiency"
+    description: "Use of route optimization and inventory management technologies to reduce costs and improve service reliability."
+    icon: "bi bi-speedometer" # Example: Speedometer for efficiency

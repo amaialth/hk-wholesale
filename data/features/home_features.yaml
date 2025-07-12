@@ -1,0 +1,10 @@
+features:
+  - title: "Efficient Logistics"
+    description: "Direct-to-location delivery with optimized routing to ensure timely and cost-effective fulfillment."
+    icon: "fa-solid fa-truck" # Font Awesome solid truck icon
+  - title: "Competitive Pricing"
+    description: "Benefit from bulk purchasing and strong supplier relationships for the best prices."
+    icon: "fa-solid fa-dollar-sign" # Font Awesome solid dollar-sign icon
+  - title: "Unmatched Reliability"
+    description: "Count on us for consistent product availability and dependable delivery schedules."
+    icon: "fa-solid fa-handshake" # Font Awesome solid handshake icon

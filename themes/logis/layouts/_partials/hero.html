@@ -6,8 +6,8 @@
     <div class="container">
         <div class="row gy-4 d-flex justify-content-between">
             <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
-                <h2 data-aos="fade-up">{{ .Params.hero.title | default "Your Lightning Fast Delivery Partner" }}</h2>
-                <p data-aos="fade-up" data-aos-delay="100">{{ .Params.hero.description | default "We provide fast,reliable logistics and delivery services for businesses of all sizes." }}</p>
+                <h2 data-aos="fade-up">{{ .Site.Params.hero.title | default "Your Lightning Fast Delivery Partner" }}</h2>
+                <p data-aos="fade-up" data-aos-delay="100">{{ .Site.Params.hero.description | default "We provide fast,reliable logistics and delivery services for businesses of all sizes." }}</p>
 
                <!--Hero Stats section-->
                 <div class="row gy-4" data-aos="fade-up" data-aos-delay="300">
