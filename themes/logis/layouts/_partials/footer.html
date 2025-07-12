@@ -27,12 +27,14 @@
             <div class="col-lg-2 col-6 footer-links">
                 <h4>Our Services</h4>
                 <ul>
-                    {{ range first 5 (where .Site.RegularPages "Type" "services") }}
-                    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+                    {{ range .Site.Data.services.product_services.categories }}
+                    {{ $title := .title }}
+                    {{ range .items }}
+                    <li><a href="#">{{ .name }}</a></li>
+                    {{ end }}
                     {{ end }}
                 </ul>
             </div>
-
             <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
                 <h4>Contact Us</h4>
                 <p>{{ .Site.Params.address.street }}</p>
