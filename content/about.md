@@ -17,7 +17,9 @@ The business was founded on identifying significant opportunities in how gas sta
 We offer unmatched reliability, competitive pricing, and flexible, route-optimized delivery—backed by deep industry experience offering bulk purchasing, competitive pricing, and efficient, route-optimized delivery services.
 
 ### Unique Selling Proposition
-* **Personalized service, flexible delivery options, and responsiveness to evolving customer needs** 
-* **Founded and operated by individuals with hands-on experience in trucking and gas station industries, ensuring deep understanding of customer pain points**
+
+- **Personalized service, flexible delivery options, and responsiveness to evolving customer needs**
+- **Founded and operated by individuals with hands-on experience in trucking and gas station industries, ensuring deep understanding of customer pain points**
 
 {{< key-strengths >}}
+{{< stats >}}

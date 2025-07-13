@@ -28,10 +28,10 @@ menus:
 params:
   # Address details
   address:
-    street: "123 Main Street"
-    city: "Anytown"
-    state: "CA"
-    zip: "90210"
+    street: "21 Denman Drive"
+    city: "Woodbridge Township,"
+    state: "NJ"
+    zip: "08863"
     country: "USA"
 
   # Contact details
@@ -45,11 +45,15 @@ params:
     subtitle: "Delivering Quality Products Since 2015"
     description: "A New Jersey-based wholesale distribution company specializing in supplying high-demand automotive products, bottled water, sports drinks, and seasonal items to Gas stations, Truck stops, Repair Shops, and other small businesses across the state."
     stats:
-      - value: "100+"
+      - value: "100"
+        valueLable: "100+"
         label: "Projects Completed"
       - value: "500"
+        valueLable: "500+"
         label: "Happy Clients"
       - value: "10"
+        valueLable: "10+"
         label: "Years Experience"
-      - value: "99%"
+      - value: "99"
+        valueLable: "99%"
         label: "Satisfaction Rate"
