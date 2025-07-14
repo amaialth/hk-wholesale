@@ -1,7 +1,7 @@
 baseURL: https://hk-wholesale.com/
 languageCode: en-us
 title: HK Wholesale
-theme: logis
+theme: faster
 defaultContentLanguage: "en"
 style: "default"
 

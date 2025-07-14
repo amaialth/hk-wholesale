@@ -1,0 +1,8 @@
+<div class="row">
+    {{ range .Site.Params.hero.stats }}
+    <div class="col-sm-4">
+        <h1 class="text-primary mb-2" data-toggle="counter-up">{{ .value }}</h1>
+        <h6 class="font-weight-bold mb-4">{{ .label }}</h6>
+    </div>
+    {{ end }}
+</div>
